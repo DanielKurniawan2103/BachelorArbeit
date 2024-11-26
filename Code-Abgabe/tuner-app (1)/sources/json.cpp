@@ -1,0 +1,1 @@
+# Die JSON Strukturen darf aus Datenschutzgrunden nicht veröffentlicht werden

@@ -1,0 +1,1 @@
+# Diese Datei dient der Kommunikation zwischen der Radioapplikation und der Master Applikation. Aus Datenschutzgrunden darf diese nicht veröffentlicht werden.
