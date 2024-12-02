@@ -1,1 +1,0 @@
-### Die Nachrichten Struktur für die HTTP Kommunikation darf aus Datenschutzgrunden nicht veröffentlicht werden.
